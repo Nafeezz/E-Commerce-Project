@@ -1,0 +1,19 @@
+.card {
+    width: 70%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 1px solid;
+    margin: 10px;
+    font-size: x-large;
+    justify-content: center;
+    background-color: rgb(231, 223, 215);
+    
+}
+.cart-button{
+    background-color: black;
+    color: azure;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    
+}

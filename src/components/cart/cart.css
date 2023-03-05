@@ -1,0 +1,35 @@
+.remove-cart{
+    background-color: black;
+    color: azure;
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+    
+}
+.billing{
+    font-size: larger;
+    font-style: italic;
+    
+}
+#main{
+    margin-left: 300px;
+    margin-top: -150px;
+    border: 1px solid rgb(228, 222, 222);
+    
+}
+.cartitem-title{
+    font-size: x-large;
+}
+.cartitem-price{
+    font-size: x-large;
+}
+.span{
+    font-size: x-large;
+}
+.checkout{
+    background-color: black;
+    color: azure;
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+}
